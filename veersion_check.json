@@ -3,7 +3,7 @@
     {
       "Board": "ESP32_DEV",
       "Version": "1.0.0",
-      "Device": "30:C6:F7:24:AC:38",
+      "Device": "78:42:1C:CF:CF:14",
       "URL": "https://github.com/austermadywork/esp_ota_json/releases/download/Firmware_version_Manager/personal_OTA.bin"
     }
   ]
